@@ -37,7 +37,7 @@ The LDR sensor continuously monitors ambient light intensity. When the light lev
 
 A flame sensor continuously checks for fire hazards. When a flame is detected, the system immediately activates the emergency bulb and fan while changing the system status from SAFE to ALERT. All information is displayed on the OLED display and Virtual Terminal.
 <hr>
-
+<image src="Screenshot%202026-06-22%20at%2009.02.34.png">
 <h2>Pin Configuration</h2>
 
 <table>
